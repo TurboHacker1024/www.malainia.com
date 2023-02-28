@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,400;0,700;1,400&display=swap");
+
+html {
+  padding-top: 10px;
+  background: linear-gradient(darkslategray, black) no-repeat fixed;
+  margin-bottom: 500px;
+}
+body {
+  background: black;
+  color: rgb(241, 235, 235);
+  max-width: 800px;
+  margin: auto;
+  padding: 25px;
+  margin-bottom: 500px;
+  font-family: ubuntu;
+  border-radius: 50px;
+}
+h1 {
+  text-align: center;
+}
+a {
+  color: lightblue;
+  font-size: large;
+  line-height: 1.5;
+}
+
+a:visited {
+  color: rgb(197, 20, 197);
+}
+
+h2 {
+  color: tomato;
+}
+
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 100px;
+  width: 80%;
+}
+
+p.center {
+  text-align: center;
+}
+
+.IP {
+  font-weight: bold;
+  color: rgb(255, 0, 255);
+}
+
+.index {
+  line-height: 2.5em;
+  font-size: 1.8em;
+}
+
+.indexheader {
+  font-size: 2.1em;
+}
